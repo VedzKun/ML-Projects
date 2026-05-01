@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.docx
+research_reports/
+.idea/
+.vscode/
